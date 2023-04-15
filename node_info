@@ -1,8 +1,8 @@
-slv_node_runs_runs=no
+slv_node_runs_runs=yes
 slv_node_work_naid=node8651
-slv_node_work_name=fv-az574-693
-slv_node_ipv4_eth0=10.1.0.41
-slv_node_ipv4_ztc2=10.88.90.63
-slv_node_star_time=1681529019
-slv_node_work_time=2023-04-15-[112339]
+slv_node_work_name=fv-az577-927
+slv_node_ipv4_eth0=10.1.0.167
+slv_node_ipv4_ztc2=10.88.90.78
+slv_node_star_time=1681554811
+slv_node_work_time=2023-04-15-[183331]
 slv_node_work_disk=/home/runner/work/5jnr6qrm/5jnr6qrm
